@@ -1,0 +1,18 @@
+table{
+    border-collapse: collapse;
+}
+thead tr,th{
+    border: 1px solid rgb(0, 0, 0);
+    background-color: rgba(209, 80, 80, 0.959);
+}
+tbody td{
+    border: 2px solid rgb(168, 168, 209);
+    background-color: beige;
+}
+tfoot td{
+    border: 2px solid gray;
+    background-color: rgb(165, 165, 161);
+}
+body{
+    background-color: rgba(228, 228, 228, 0.829);
+}
